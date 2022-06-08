@@ -1,11 +1,11 @@
 {
-  "name": "vscode-extension-pack-skeleton",
-  "displayName": "VSCode extension pack skeleton",
-  "description": "A starter skeleton for VSCode extension packs.",
+  "name": "vscode-web-developer-extension-pack",
+  "displayName": "VSCode extension pack for web developers",
+  "description": "A base set of useful extensions for web developers.",
   "version": "0.0.1",
   "publisher": "MechanicalInk",
   "repository": {
-    "url": "git@github.com:project-calavera/vscode-extension-pack-skeleton.git",
+    "url": "git@github.com:schalkneethling/web-developer-extension-pack.git",
     "type": "git"
   },
   "scripts": {
@@ -18,7 +18,23 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "included-extensions"
+    "dbaeumer.vscode-eslint",
+    "cssho.vscode-svgviewer",
+    "deque-systems.vscode-axe-linter",
+    "eriklynd.json-tools",
+    "esbenp.prettier-vscode",
+    "redhat.vscode-yaml",
+    "davidanson.vscode-markdownlint",
+    "GitHub.github-vscode-theme",
+    "kisstkondoros.vscode-gutter-preview",
+    "mikestead.dotenv",
+    "mkxml.vscode-filesize",
+    "ritwickdey.LiveServer",
+    "stylelint.vscode-stylelint",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "vscode-icons-team.vscode-icons",
+    "github.codespaces",
+    "gruntfuggly.todo-tree"
   ],
   "devDependencies": {
     "prettier": "^2.6.2",
