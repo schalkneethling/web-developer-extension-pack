@@ -12,7 +12,6 @@ This extension pack contains the following extensions:
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 - [Markdown Link](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-- [GitHub VSCode Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
