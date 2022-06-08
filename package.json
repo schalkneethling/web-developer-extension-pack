@@ -1,0 +1,27 @@
+{
+  "name": "vscode-extension-pack-skeleton",
+  "displayName": "VSCode extension pack skeleton",
+  "description": "A starter skeleton for VSCode extension packs.",
+  "version": "0.0.1",
+  "publisher": "MechanicalInk",
+  "repository": {
+    "url": "git@github.com:project-calavera/vscode-extension-pack-skeleton.git",
+    "type": "git"
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "included-extensions"
+  ],
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "vsce": "^2.9.1"
+  }
+}

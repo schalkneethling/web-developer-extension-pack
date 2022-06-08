@@ -1,0 +1,11 @@
+name: publish-vscode-extension
+on:
+  push:
+    branches:
+      - your-main-branch-name
+
+jobs:
+  publish-vscode-extension:
+    uses: project-calavera/calavera-reusable-actions/.github/workflows/publish-vscode-extension.yml@main
+    secrets:
+      VSCODE_MARKETPLACE_TOKEN: ${{ secrets.VSCODE_MARKETPLACE_TOKEN }}
