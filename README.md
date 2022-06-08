@@ -24,4 +24,8 @@ This extension pack contains the following extensions:
 
 ## Marketplace
 
-You can find the extension pack on the marketplace at [Web Developer extension pack](https://marketplace.visualstudio.com/items?)
+You can find the extension pack on the marketplace at [Web Developer extension pack](https://marketplace.visualstudio.com/items?itemName=MechanicalInk.vscode-web-developer-extension-pack)
+
+### Suggestions
+
+Do you have a suggestions for an extension that should be part of this extension pack? Please [open an issue](https://github.com/schalkneethling/web-developer-extension-pack/issues/new) with your rationale for adding it. When suggesting an extension, please keep in mind that this is meant to be a base pack for the most common needs a front-end web developer will have. The aim is also to keep it light so it does not slow down VSCode.
