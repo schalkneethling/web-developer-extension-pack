@@ -5,6 +5,6 @@ jobs:
   auto-merge:
     uses: project-calavera/calavera-reusable-actions/.github/workflows/auto-merge.yml@main
     with:
-      target-repo: "project-calavera/vscode-extension-pack-skeleton"
+      target-repo: "schalkneethling/web-developer-extension-pack"
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}

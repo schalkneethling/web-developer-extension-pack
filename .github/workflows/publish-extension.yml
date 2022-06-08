@@ -2,7 +2,7 @@ name: publish-vscode-extension
 on:
   push:
     branches:
-      - your-main-branch-name
+      - main
 
 jobs:
   publish-vscode-extension:
