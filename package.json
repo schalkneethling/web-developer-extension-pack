@@ -2,7 +2,7 @@
   "name": "vscode-web-developer-extension-pack",
   "displayName": "VSCode extension pack for web developers",
   "description": "A base set of useful extensions for web developers.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "MechanicalInk",
   "repository": {
     "url": "git@github.com:schalkneethling/web-developer-extension-pack.git",
